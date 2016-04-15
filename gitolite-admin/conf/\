@@ -1,0 +1,8 @@
+repo gitolite-admin
+    RW+     =   admin
+repo helloworld
+    RW+     =   id_rsa
+repo testing
+    RW+     =   @all
+repo anlong
+    RW+     =   anlong
